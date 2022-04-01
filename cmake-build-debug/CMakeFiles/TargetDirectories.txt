@@ -1,0 +1,4 @@
+/Users/rodion/VSHE/OIMP/image_processor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/rodion/VSHE/OIMP/image_processor/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rodion/VSHE/OIMP/image_processor/cmake-build-debug/CMakeFiles/test_image_processor.dir
+/Users/rodion/VSHE/OIMP/image_processor/cmake-build-debug/CMakeFiles/image_processor.dir
